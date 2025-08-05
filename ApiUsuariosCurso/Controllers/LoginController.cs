@@ -15,7 +15,7 @@ public class LoginController : Controller
     }
 
     [HttpPost]
-    public ActionResult Index()
+    public ActionResult RegistrarUsuario()
     {
         return View("Index");
     }
