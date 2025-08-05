@@ -258,3 +258,4 @@
 /home/gutssama/Documentos/Web Api C#/Hotmart/ApiUsuariosCurso/ApiUsuariosCurso/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
 /home/gutssama/Documentos/Web Api C#/Hotmart/ApiUsuariosCurso/ApiUsuariosCurso/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /home/gutssama/Documentos/Web Api C#/Hotmart/ApiUsuariosCurso/ApiUsuariosCurso/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/home/gutssama/Documentos/Web Api C#/Hotmart/ApiUsuariosCurso/ApiUsuariosCurso/obj/Debug/net8.0/ApiUsuariosCurso.sourcelink.json
